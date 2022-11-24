@@ -4,7 +4,7 @@ bar**K**ode **A**ttachment to **O**penfoodfacts in Vue.
 
 ----
 
-**_In development_**: This Application is currently in the development phase and most of its functionalities are not yet available. 
+Github Pages deployment fork. The original project repo is [github.com/jzaprzalka/kao](https://github.com/jzaprzalka/kao). 
 
 ----
 
